@@ -1,0 +1,10 @@
+package com.empwage;
+
+public class EmpWageCalculator {
+
+	public static void main(String[] args) {
+		System.out.println("Welcome To The Employee Wage Calculator");
+		uc5 u=new uc5();
+	}
+
+}
